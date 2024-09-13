@@ -1,2 +1,2 @@
 # Calculator
-calculator built in react
+A scientific calculator built in react.
